@@ -1,0 +1,12 @@
+﻿G:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (StartButtonChangePos.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TryInWInAPI.cpp
+F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\StartButtonChangePos\TryInWInAPI.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\StartButtonChangePos\TryInWInAPI.cpp(298,28): warning C4018: '<=': signed/unsigned mismatch
+F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\StartButtonChangePos\TryInWInAPI.cpp(149,7): warning C4101: 'sleep': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\StartButtonChangePos\TryInWInAPI.cpp(379): warning C4715: 'EnumChildWindowsFn': not all control paths return a value
+F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\StartButtonChangePos\TryInWInAPI.cpp(388): warning C4715: 'EnumWindowsFnMin': not all control paths return a value
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StartButtonChangePos.vcxproj -> F:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\Release\TryInWinAPI.exe

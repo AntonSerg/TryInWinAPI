@@ -1,0 +1,4 @@
+﻿  StartButtonChangePos.cpp
+e:\learning(wit)\c++\visual studio\winapi\winapi book examples\startbuttonchangepos\startbuttonchangepos\startbuttonchangepos\startbuttonchangepos.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\learning(wit)\c++\visual studio\winapi\winapi book examples\startbuttonchangepos\startbuttonchangepos\startbuttonchangepos\startbuttonchangepos.cpp(143): warning C4101: 'sleep': unreferenced local variable
+  StartButtonChangePos.vcxproj -> E:\Learning(WIT)\C++\Visual Studio\WINAPI\WinApi book examples\StartButtonChangePos\StartButtonChangePos\Debug\StartButtonChangePos.exe
